@@ -37,3 +37,7 @@ This project is part of **Translate4Good**, a Hack for Impact hackathon winner �
 
 ### 🤝 Contributing
 If you're interested in contributing to **UN Document Translator**, please check out the repository and submit a pull request.
+
+### Citations
+- https://huggingface.co/Helsinki-NLP/opus-mt-en-es
+- Ziemski, M., Junczys-Dowmunt, M., and Pouliquen, B., (2016), The United Nations Parallel Corpus, Language Resources and Evaluation (LREC’16), Portorož, Slovenia, May 2016.
