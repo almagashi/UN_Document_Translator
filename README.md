@@ -24,7 +24,7 @@ A specialized translation model powered by **MarianMT** and fine-tuned with the 
 - **FastAPI**: Lightweight, fast backend framework for building and serving API endpoints.
 
 ## 📈 Performance
-- **>93% cosine similarity score between human (native speaker) and model translations in unseen data.
+- **>93% cosine similarity score** between human (native speaker) and model translations in unseen data.
 - ![image](https://github.com/user-attachments/assets/b2f00527-6322-4527-b203-8133b934bfdf)
 
 ## 📄 Dataset
