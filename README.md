@@ -1,5 +1,3 @@
-![UN Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/United_Nations_emblem_blue.svg/1024px-United_Nations_emblem_blue.svg.png) ![Translate4Good Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Hugging_Face_logo.svg/800px-Hugging_Face_logo.svg.png)
-
 # UN Document Translator
 
 A specialized translation model powered by **MarianMT** and fine-tuned with the **UN Parallel Corpora** dataset, built to deliver precise, contextually accurate translations for **United Nations** documents. This model supports multilingual translations across the UN's six official languages, helping human translators and researchers handle large volumes of content with ease and accuracy.
