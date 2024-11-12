@@ -25,6 +25,7 @@ A specialized translation model powered by **MarianMT** and fine-tuned with the 
 
 ## 📈 Performance
 - **>93% cosine similarity score** between human (native speaker) and model translations in unseen data.
+- Outperforms human translations in blind studies.
 
 ## 📄 Dataset
 The model has been fine-tuned using the **UN Parallel Corpora**, a large collection of multilingual UN documents that provide high-quality, parallel translations across multiple languages. 
