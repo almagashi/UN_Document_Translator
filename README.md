@@ -10,6 +10,7 @@ A specialized translation model powered by **MarianMT** and fine-tuned with the 
 
 ### 💻 Full Application
 - **GitHub Repository for the full application**: [UN Document Translator App](https://github.com/rajashekarcs2023/un-translation-system/tree/main)
+- **See it in motion:** [YouTube Demo](https://youtu.be/4xU8BefR2CA)
 
 ---
 
